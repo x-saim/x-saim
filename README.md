@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Saim] (@x-saim)!
+# 👋 Hi there, I'm [Saim](@x-saim)!
 
 <!---![Profile Banner](https://your-image-url.com/banner.png)--->
 
