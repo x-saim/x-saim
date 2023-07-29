@@ -1,6 +1,55 @@
-- 👋 Hi, I’m @x-saim
-- 👀 I’m interested in learning programming, creating new projects, and contributing to open source projects.
-- 🌱 I’m currently learning Javascript, Ruby, HTML, CSS, and Python.
+# 👋 Hi there, I'm [Saim] (@x-saim)!
+
+<!---![Profile Banner](https://your-image-url.com/banner.png)--->
+
+Welcome to my GitHub profile! I'm passionate about learning programming, creating innovative projects, and contributing to open-source initiatives. I'm currently focused on mastering a variety of technologies to build exciting and impactful applications.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Ruby, HTML, CSS, Python
+- **Frameworks & Libraries:** React, Ruby on Rails, Node.js, Express.js
+- **Database:** PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Testing:** Jest, Storybook, Cypress, RSpec
+- **UI/UX Design:** Figma
+- **Deployment:** Heroku, Netlify
+- **IDE:** Visual Studio Code
+
+## 🌱 Current Learning Goals
+
+I'm on a journey to expand my skills and knowledge in software development. Some of my current learning goals include:
+
+- Exploring advanced JavaScript concepts and modern ES6+ features.
+- Building full-stack web applications with Ruby on Rails and React.
+- Gaining proficiency in data structures and algorithms.
+- Contributing to meaningful open-source projects.
+
+## 🔭 My Projects
+
+Here are some of the projects I've been working on:
+
+1. **Interview Scheduler** - Interview Scheduler is a single-page application (SPA) built using JavaScript, React, and Axios that allows users to book technical interviews between students and mentors.
+   - [GitHub Repo](https://github.com/x-saim/scheduler)
+
+2. **TinyApp** - TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+   - [GitHub Repo](https://github.com/x-saim/tinyapp)
+3. **Tweeter** - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
+   - [Github Repo](https://github.com/x-saim/tweeter)
+
+2. **QuizApp** - Another exciting project showcasing your skills.
+   - [GitHub Repo](https://github.com/your-repo/project-name-2)
+   - [Live Demo](https://your-live-demo-url.com)
+
+## 🤝 Let's Connect
+
+I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on my social channels:
+
+- [LinkedIn](https://www.linkedin.com/in/saimamir/)
+
+Looking forward to connecting with the amazing GitHub community!
+
+Happy coding! 🚀
+
 
 <!---
 x-saim/x-saim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
