@@ -36,9 +36,9 @@ Here are some of the projects I've been working on:
 3. **Tweeter** - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
    - [Github Repo](https://github.com/x-saim/tweeter)
 
-2. **QuizApp** - Another exciting project showcasing your skills.
+<!---2. **QuizApp** - Another exciting project showcasing your skills.
    - [GitHub Repo](https://github.com/your-repo/project-name-2)
-   - [Live Demo](https://your-live-demo-url.com)
+   - [Live Demo](https://your-live-demo-url.com) --->
 
 ## 🤝 Let's Connect
 
