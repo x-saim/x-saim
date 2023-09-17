@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 I'm on a journey to expand my skills and knowledge in software development. Some of my current learning goals include:
 
 - Exploring advanced JavaScript concepts and modern ES6+ features.
-- Building full-stack web applications with Ruby on Rails and React.
+- Building full-stack web applications with JavaScript and React.
 - Gaining proficiency in data structures and algorithms.
 - Contributing to meaningful open-source projects.
 
@@ -28,17 +28,17 @@ I'm on a journey to expand my skills and knowledge in software development. Some
 
 Here are some of the projects I've been working on:
 
-1. **Interview Scheduler** - Interview Scheduler is a single-page application (SPA) built using JavaScript, React, and Axios that allows users to book technical interviews between students and mentors.
+1. **BizConnect** - A full-stack professional social network developed using Node.js, Express, React, Redux, and MongoDB. The platform is a space for networking, sharing industry insights, finding job opportunities, and offering freelance services.
+   - [GitHub Repo](https://github.com/your-repo/project-name-2)
+
+2. **Interview Scheduler** - Interview Scheduler is a single-page application (SPA) built using JavaScript, React, and Axios that allows users to book technical interviews between students and mentors.
    - [GitHub Repo](https://github.com/x-saim/scheduler)
 
-2. **TinyApp** - TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
+3. **TinyApp** - TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly).
    - [GitHub Repo](https://github.com/x-saim/tinyapp)
-3. **Tweeter** - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
-   - [Github Repo](https://github.com/x-saim/tweeter)
 
-<!---2. **QuizApp** - Another exciting project showcasing your skills.
-   - [GitHub Repo](https://github.com/your-repo/project-name-2)
-   - [Live Demo](https://your-live-demo-url.com) --->
+4. **Tweeter** - Tweeter is a Single Page App (SPA) built with HTML, CSS, JS, jQuery, and AJAX.
+   - [Github Repo](https://github.com/x-saim/tweeter)
 
 ## 🤝 Let's Connect
 
