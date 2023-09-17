@@ -29,7 +29,7 @@ I'm on a journey to expand my skills and knowledge in software development. Some
 Here are some of the projects I've been working on:
 
 1. **BizConnect** - A full-stack professional social network developed using Node.js, Express, React, Redux, and MongoDB. The platform is a space for networking, sharing industry insights, finding job opportunities, and offering freelance services.
-   - [GitHub Repo](https://github.com/your-repo/project-name-2)
+   - [GitHub Repo](https://github.com/x-saim/bizconnect)
 
 2. **Interview Scheduler** - Interview Scheduler is a single-page application (SPA) built using JavaScript, React, and Axios that allows users to book technical interviews between students and mentors.
    - [GitHub Repo](https://github.com/x-saim/scheduler)
