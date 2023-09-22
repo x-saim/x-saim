@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Ruby, HTML, CSS, Python
+- **Languages:** JavaScript, TypeScript, Python, Ruby, HTML, CSS, 
 - **Frameworks & Libraries:** React, Ruby on Rails, Node.js, Express.js
 - **Database:** PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
@@ -19,10 +19,9 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 
 I'm on a journey to expand my skills and knowledge in software development. Some of my current learning goals include:
 
-- Exploring advanced JavaScript concepts and modern ES6+ features.
-- Building full-stack web applications with JavaScript and React.
-- Gaining proficiency in data structures and algorithms.
-- Contributing to meaningful open-source projects.
+- Proficiency in TypeScript and Python.
+- Building full-stack web applications with JavaScript and Angular.
+- Gaining proficiency in data structures and algorithms by leete coding and studying computer science.
 
 ## 🔭 My Projects
 
