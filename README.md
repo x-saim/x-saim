@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 - **Frameworks & Libraries:** Node.js, Express.js, React, Redux, jQuery, Axios, AJAX, Ruby on Rails, Mongoose, TailwindCSS
 - **Database:** PostgreSQL, MongoDB, mySQL
 - **Testing:** Jest, Storybook, Cypress, RSpec
-- **Deployment/Tools:** evelopment: Git, Github, Visual Studio Code, Linux, Postman, Figma, Vercel
+- **Deployment/Tools:** Git, Github, Visual Studio Code, Linux, Postman, Figma, Vercel
   
 ## 🌱 Current Learning Goals
 
