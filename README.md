@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, Python, Ruby, HTML, CSS, 
+- **Languages:** JavaScript, Python, Ruby, HTML, CSS, 
 - **Frameworks & Libraries:** React, Ruby on Rails, Node.js, Express.js
 - **Database:** PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
