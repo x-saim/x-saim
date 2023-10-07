@@ -6,22 +6,20 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, Python, Ruby, HTML, CSS, 
-- **Frameworks & Libraries:** React, Ruby on Rails, Node.js, Express.js
-- **Database:** PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
+- **Languages:** JavaScript, Python, Ruby, HTML, EJS, CSS, SASS, SQL
+- **Frameworks & Libraries:** Node.js, Express.js, React, Redux, jQuery, Axios, AJAX, Ruby on Rails, Mongoose, TailwindCSS
+- **Database:** PostgreSQL, MongoDB, mySQL
 - **Testing:** Jest, Storybook, Cypress, RSpec
-- **UI/UX Design:** Figma
-- **Deployment:** Heroku, Netlify
-- **IDE:** Visual Studio Code
-
+- **Deployment/Tools:** evelopment: Git, Github, Visual Studio Code, Linux, Postman, Figma, Vercel
+  
 ## 🌱 Current Learning Goals
 
 I'm on a journey to expand my skills and knowledge in software development. Some of my current learning goals include:
 
 - Proficiency in TypeScript and Python.
+- AWS Certified Developer certification. 
 - Building full-stack web applications with JavaScript and Angular.
-- Gaining proficiency in data structures and algorithms by leete coding and studying computer science.
+- Gaining proficiency in data structures and algorithms by leet coding and studying computer science.
 
 ## 🔭 My Projects
 
@@ -44,6 +42,7 @@ Here are some of the projects I've been working on:
 I'm always excited to collaborate, learn, and grow together. Feel free to reach out to me on my social channels:
 
 - [LinkedIn](https://www.linkedin.com/in/saimamir/)
+- [Personal Portfolio](https://saimxamir.vercel.app/)
 
 Looking forward to connecting with the amazing GitHub community!
 
