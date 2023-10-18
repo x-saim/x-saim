@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about learning programming, creatin
 
 - **Languages:** JavaScript, Python, Ruby, HTML, EJS, CSS, SASS, SQL
 - **Frameworks & Libraries:** Node.js, Express.js, React, Redux, jQuery, Axios, AJAX, Ruby on Rails, Mongoose, TailwindCSS
-- **Database:** PostgreSQL, MongoDB, mySQL
+- **Database:** PostgreSQL, MongoDB
 - **Testing:** Jest, Storybook, Cypress, RSpec
 - **Deployment/Tools:** Git, Github, Visual Studio Code, Linux, Postman, Figma, Vercel
   
